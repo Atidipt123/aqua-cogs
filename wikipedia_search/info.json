@@ -1,0 +1,18 @@
+{
+    "name": "Wikipedia",
+    "short": "Browse wikipedia using discord",
+    "description": "Search anything on wikipedia using discord!",
+    "install_msg": "Thanks for installing Wikipedia plugin.",
+    "author": [
+        "Atidipt123"
+    ],
+    "required_cogs": {},
+    "requirements": ["wikipedia"],
+    "tags": [
+        "fun"
+    ],
+    "min_bot_version": "3.3.10",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}

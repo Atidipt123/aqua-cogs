@@ -1,0 +1,8 @@
+{
+    "author" : ["Atidip123"],
+    "install_msg" : "Thanks for installing `aqua-cogs`! If you need help with any cogs, make an issue at https://github.com/Atidipt123/aqua-cogs/issues/ .",
+    "name" : "Aqua-Cogs",
+    "short" : "Fun cogs",
+    "description" : "Fun cogs including mini games.",
+    "tags" : ["fun"]
+}

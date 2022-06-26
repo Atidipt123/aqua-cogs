@@ -1,0 +1,18 @@
+{
+    "name": "Mini Games",
+    "short": "Mini Games on Discord",
+    "description": "Mini Games like rock paper scissors , trivia and much more.",
+    "install_msg": "Thanks for installing Mini Games plugin.",
+    "author": [
+        "Atidipt123"
+    ],
+    "required_cogs": {},
+    "requirements": ["requets"],
+    "tags": [
+        "fun"
+    ],
+    "min_bot_version": "3.3.10",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
